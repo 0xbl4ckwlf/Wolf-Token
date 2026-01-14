@@ -1,0 +1,7 @@
+WolfTokenTest:testAllowanceWorks() (gas: 76045)
+WolfTokenTest:testBobBalance() (gas: 10631)
+WolfTokenTest:testInitialSupply() (gas: 7979)
+WolfTokenTest:testTokenMetadata() (gas: 19862)
+WolfTokenTest:testTransferFromMoreThanAllowanceReverts() (gas: 42551)
+WolfTokenTest:testTransferFromWithoutApprovalReverts() (gas: 17438)
+WolfTokenTest:testTransferMoreThanBalanceReverts() (gas: 17024)

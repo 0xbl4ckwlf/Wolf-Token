@@ -51,8 +51,8 @@ Compile the smart contracts to generate artifacts and ABIs:
 
 ```Bash
 forge build
-Deployment
 ```
+### Deployment
 To deploy to a local Anvil chain:
 `make deploy`
 
